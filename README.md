@@ -1,6 +1,6 @@
-# Oslo Waiting Time Airport History
+# Hamburg Waiting Time Airport History
 
-Tracking the waiting time for security check at the Oslo airport using GitHub Actions.
+Tracking the waiting time for security check at the Hamburg airport using GitHub Actions.
 
 ## References
 
